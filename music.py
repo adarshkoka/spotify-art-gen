@@ -11,9 +11,6 @@ from processing_py import *
 import random
 import time
 
-SPOTIPY_CLIENT_ID = 'ee8842e54a4b4e21924fc059f66cebb5'
-SPOTIPY_CLIENT_SECRET = '40aaa054044344f38ff43b621d642f55'
-SPOTIPY_REDIRECT_URI = "http://127.0.0.1:9090/"
 # SCOPE = "user-top-read"
 SCOPE = ["user-top-read", "user-read-currently-playing"]
 
